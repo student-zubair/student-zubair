@@ -1,3 +1,4 @@
+![logo](https://github.com/student-zubair/student-zubair/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mohammed Zubair</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
