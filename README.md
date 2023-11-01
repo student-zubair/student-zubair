@@ -1,6 +1,6 @@
 ![logo](https://github.com/student-zubair/student-zubair/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mohammed Zubair</h1>
-<h3 align="center">A passionate Computer Science Engineering Student from India</h3>
+<h3 align="center">A Passionate Computer Science Engineering Student from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
